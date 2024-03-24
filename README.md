@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Anbuchelvam
 
 Diving into UI/UX Design world
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/87/0a/2f/870a2f0a426751eac1fc9cefcd97be78.gif">
 - 🔭 Here's my [portfolio](https://www.behance.net/anbuchelvam)                                               
 - 🌱 I’m currently learning UI/UX
 - 👯 I’m looking for job in UI/UX Design World
