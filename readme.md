@@ -2,7 +2,7 @@
 
 Diving into UI/UX Design world
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/87/0a/2f/870a2f0a426751eac1fc9cefcd97be78.gif">
-- 🔭 Here's my [portfolio](https://anbuchelvam.framer.website/)                                               
+- 🔭 Here's my [portfolio](https://www.behance.net/anbuchelvam)                                              
 - 🌱 I’m currently learning UI/UX
 - 👯 I’m looking for job in UI/UX Design World
 - 📫 How to reach me :
